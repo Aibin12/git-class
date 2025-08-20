@@ -26,8 +26,12 @@ command for listing remote
  > git -v
 command for push
  >git push -u name master 
+ 
+ command for listing all branches
+ > git branch
 
-
+commit history
+>  git log
 
 
 
