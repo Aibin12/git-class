@@ -18,6 +18,16 @@ commands for adding all untracked files
 
 command for adding all staged files to local respository
  > git commit -m "commit message"  
+  
+command for adding remote respository
+ > git remote add name path
+
+command for listing remote 
+ > git -v
+command for push
+ >git push -u name master 
+
+
 
 
 
